@@ -1,4 +1,9 @@
 {
-    "headline": "Hello World!",
-    "subheadline": "I'm a frontend developer"
+    "title": {
+        "headline": "Hello World!",
+        "subheadline": "I'm a frontend developer"
+    },
+    "about": {
+        "description": "Hi, I'm Björn, a frontend developer from  Germany."
+    }
 }
